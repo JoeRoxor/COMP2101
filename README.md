@@ -1,3 +1,3 @@
 # COMP2101
 Administrative Scripting Class
-Set up 2016-01-15
+# Set up 2016-01-15
